@@ -15,7 +15,7 @@
   height: 30px;
 }
 
-.nav-links li a {
+.nav-links li {
   text-decoration: none;
   color: black;
   font-size: 15px;
